@@ -1,0 +1,23 @@
+.back {
+    background-color: #FFC017;
+ }
+ 
+ .border-bottom-dark {
+     border-bottom: 1px solid rgb(46, 43, 43);
+ }
+ 
+ .yazi {
+     font-family: 'Dongle', sans-serif;
+     font-family: 'Roboto Condensed', sans-serif;
+     font-family: 'Roboto Mono', monospace;
+ }
+ 
+ .brdr {
+     border-color: black;
+ }
+ 
+ .number {
+     color: rgba(230, 230, 230, 1);
+     font-size: 40px;
+ }
+ 
